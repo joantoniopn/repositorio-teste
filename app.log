@@ -1,0 +1,4 @@
+[2019-04-07 19:37:30] name.WARNING: Foo [] []
+[2019-04-07 19:37:30] name.ERROR: Bar [] []
+[2019-04-07 19:49:45] name.WARNING: Olá, Joao [] []
+[2019-04-07 19:49:45] name.ERROR: Bar [] []
