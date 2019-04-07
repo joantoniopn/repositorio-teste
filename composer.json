@@ -2,8 +2,7 @@
     "name": "joantoniopn/curso-composer-son",
     "description": "Pacote de exemplo de curso de composer",
     "type": "library",
-    "require-dev": {
-    },
+    "require-dev": {},
     "autoload": {
         "psr-4": {
             "joantoniopn\\CursoSON\\": "src"
